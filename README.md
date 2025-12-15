@@ -3,7 +3,7 @@
 - 👀 I’m a clinical psych grad student and independent community journalist
 - 🌱 I’m currently practicing:
 
-  -  R, Quarto/Markdown, and Bootstrap 5
+  -  R, Quarto/Markdown, AI integrations
   -  Basic statistics
   -  LaTeX 
   -  EEG data collection and analysis
