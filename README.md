@@ -1,21 +1,19 @@
-## 👋 Hi, I’m @colerehbein
+# Cole Rehbein
 
-- 👀 I’m a clinical psych grad student and independent community journalist
-- 🌱 I’m currently practicing:
+Crisis counselor and clinical psychology researcher building reproducible tools for behavioral-health research, assessment, and communication.
 
-  -  R, Quarto/Markdown, AI integrations
-  -  Basic statistics
-  -  LaTeX 
-  -  EEG data collection and analysis
-  -  Acceptance and Commitment Therapy with a focus on psychotic disorders 
-  -  History of trans behavioral therapies
+- **Current:** M.S. clinical psychology thesis on mindfulness-based behavioral activation for depression (analysis complete, writing in progress)
+- **Clinical:** Crisis triage and intervention for phone/chat behavioral-health services — Protocall Services, 988 network partner serving New Mexico
+- **Research:** Longitudinal design, psychometrics, psychological assessment, EEG
+- **Tools:** R, Quarto, Python, Markdown, LaTeX, Git
+- **Background:** Journalism, copyediting, technical writing, philosophy
+- **Site:** https://cole.press
+- **Contact:** cole@cole.press
 
-- 💞️ I’m looking to collaborate on the development and implementation of reproducible science and teaching workflows for clinical psychology and neuroscience.
+## Selected Work
 
+- [cole_press](https://github.com/colerehbein/cole_press) — Personal site and design system (Quarto, SCSS, Netlify)
+- [macOSMoveTo](https://github.com/colerehbein/macOSMoveTo) — macOS Finder Quick Action for moving files
+- [cv](https://github.com/colerehbein/cv) — Academic CV source
 
-<!---
-- 📫 How to reach me: 
-
-colerehbein/colerehbein is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Open to collaboration on reproducible science and teaching workflows for clinical psychology and neuroscience.
